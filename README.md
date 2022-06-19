@@ -21,8 +21,8 @@ I homeschooled for that year, so my courses were less traditional.
   - Solving and generating combinatorial puzzles like Sudoku and Hashi, in Python, found [here](https://github.com/sigalrmp/puzzles-2022)
 - **Honors Precalculus**, offered by the Bronx High School of Science, covering topics including trigenometry, polar equations, vectors and matrices.
 
-### Other
-
-- **Counting and Probability**, taken the summer between 7th and 8th grade, an online couse offered by Art of Problem Solving, more information [here](https://artofproblemsolving.com/school/course/intro-counting)
-
 ## Other experience
+
+- - **Scheme**, I coded regularly at home in Scheme from the age of 9 until 8th grade
+- **Counting and Probability**, taken the summer between 7th and 8th grade, an online couse offered by Art of Problem Solving, more information [here](https://artofproblemsolving.com/school/course/intro-counting)
+- **Robotics**, I'm part of the progrramming department of my school's robotics team
