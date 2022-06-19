@@ -1,4 +1,4 @@
-# Resume
+# Portfolio
 
 This repository contains some work that I did last year, as well as some projects that I've worked on in my game development class this year. Some of the projects from this year, like my forray into maze generation and algorithms, are not included simply because they are written in unity, and therefore less convenient to look at.
 
